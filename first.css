@@ -1,0 +1,57 @@
+*{
+font-family:'open sans',sans-serif;
+}
+ body{
+
+margin:0
+
+ }
+ .clear{
+     clear:both;
+    }
+
+    /*start header*/
+
+    header{
+        background-image:url(tota.jpg);
+        background-size:cover;
+        width: 100%;
+        height:100vh;
+        position:relative ;
+        color:#fff;
+
+    }
+    .blacklayer{
+
+width:100%;
+height:100vh;
+background-color: #0000;
+position: absolute;
+opacity:0.5;
+    }
+    nav{
+        padding:20px;
+    }
+    nav ul a li :hover{
+
+        color:rgb(180, 180, 199)
+        transition: all .5s;
+    }
+
+    .login{
+
+padding:10px 35px;
+background-color: rgb(0,109,235)
+transition:
+
+
+
+
+
+
+
+    }
+    
+    
+    
+    
